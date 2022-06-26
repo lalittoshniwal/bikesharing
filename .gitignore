@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# CSV
+201908-citibike-tripdata.csv
+updated-201908-citibike-tripdata.csv
+*.csv
+
 # Distribution / packaging
 .Python
 build/
